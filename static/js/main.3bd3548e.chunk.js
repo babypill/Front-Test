@@ -9,7 +9,7 @@
         },
         149: function(e) {
             e.exports = JSON.parse(
-                '{"name":"pancakeswap","timestamp":"2020-08-25T15:41:29.665Z","version":{"major":1,"minor":3,"patch":1},"tags":{},"logoURI":"images/bnb.png","keywords":["pancake","default"],"tokens":[{"name":"Teddy CatO","symbol":"TED","address":"0x026c4b0af8b5c1ffab45bcdea0084358bd405f89","chainId":56,"decimals":12,"logoURI":"images/logo-footer.png"},{"name":"PancakeSwap Token","symbol":"CAKE","address":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82","chainId":56,"decimals":18,"logoURI":"/images/coins/cake.png"},{"name":"Binance-Peg BUSD Token","symbol":"BUSD","address":"0xe9e7cea3dedca5984780bafc599bd69add087d56","chainId":56,"decimals":18,"logoURI":"/images/coins/busd.png"}]}'
+                '{"name":"pancakeswap","timestamp":"2020-08-25T15:41:29.665Z","version":{"major":1,"minor":3,"patch":1},"tags":{},"logoURI":"images/bnb.png","keywords":["pancake","default"],"tokens":[{"name":"Teddy CatO","symbol":"TED","address":"0x026c4b0af8b5c1ffab45bcdea0084358bd405f89","chainId":56,"decimals":10,"logoURI":"images/logo-footer.png"},{"name":"PancakeSwap Token","symbol":"CAKE","address":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82","chainId":56,"decimals":18,"logoURI":"/images/coins/cake.png"},{"name":"Binance-Peg BUSD Token","symbol":"BUSD","address":"0xe9e7cea3dedca5984780bafc599bd69add087d56","chainId":56,"decimals":18,"logoURI":"/images/coins/busd.png"}]}'
             );
         },
         167: function(e) {
